@@ -26,3 +26,7 @@ Notebooks can be statically viewed on Github [`index.ipynb`](index.ipynb) or **r
 [![render in nbviewer](misc/nbviewer_badge.svg)](link) or **executed** in [Binder](link) [![launch binder](misc/binder_badge.svg)](link) without any need to install or compile the software.
 
 All source code is distributed under [the MIT license](https://choosealicense.com/licenses/mit/).
+
+## Related materials
+
+The [`misc`](misc) folder contains our previously published papers related to the fdslrm project.
