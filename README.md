@@ -24,7 +24,7 @@ The notebooks folders ([`Modeling`](Modeling), [`PYnotebooks`](PYnotebooks), [`R
 with explaining narratives ilustrating explored concepts and methods. 
 
 Notebooks can be studied and  viewed  on Github [`index.ipynb`](index.ipynb) or **rendered** in [Jupyter nbviewer](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) with full visualisation 
-[![render in nbviewer](misc/nbviewer_badge.svg)](link) or interactively **executed** as live documents in [Binder](link) [![launch binder](misc/binder_badge.svg)](link) without any need to install or compile the software.
+[![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) or interactively **executed** as live documents in [Binder](link) [![launch binder](misc/binder_badge.svg)](link) without any need to install or compile the software.
 
 All source code is distributed under [the MIT license](https://choosealicense.com/licenses/mit/).
 
