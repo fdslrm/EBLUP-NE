@@ -23,8 +23,14 @@ A preprint version is available at <https://arxiv.org/abs/1905.07771>.
 The notebooks folders ([`Modeling`](Modeling), [`PYnotebooks`](PYnotebooks), [`Rnotebooks`](PYnotebooks)) contain Python based and R based Jupyter notebooks which are detailed records of our computing 
 with explaining narratives ilustrating explored concepts and methods. 
 
-Notebooks can be studied and  viewed  on Github [`index.ipynb`](index.ipynb) or **rendered** in [Jupyter nbviewer](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) 
-[![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) with full visualisation  or interactively **executed** as live documents in [Binder](link) [![launch binder](misc/binder_badge.svg)](link) without any need to install or compile the software.
+Notebooks can be studied and viewed with a raw code on Github [`index.ipynb`](index.ipynb) or **rendered** in [Jupyter nbviewer](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) 
+[![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) with full visualisation.
+
+For interactive **executing** notebooks as live documents without any need to install or compile the software
+use the following links
+* Python based notebooks using CVXPY and Scipy - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fdslrm/Binder-CVXPY/master?filepath=index.ipynb)
+* Python based notebooks using SageMath - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fdslrm/Binder-CVXPY/master?filepath=index.ipynb)
+* R based notebooks - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fdslrm/Binder-CVXPY/master?filepath=index.ipynb)
  
 All source code is distributed under [the MIT license](https://choosealicense.com/licenses/mit/).
 
