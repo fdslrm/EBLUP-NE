@@ -16,7 +16,7 @@ We illustrate our results on three real data sets &mdash; electricity consumptio
 
 The research paper has been submitted for publishing in [Statistical Papers](https://link.springer.com/journal/362).
 
-A preprint version is available at <https://arxiv.org>.
+A preprint version is available at <https://arxiv.org/abs/1905.07771>.
 
 ## Software [![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) [![launch binder](misc/binder_badge.svg)](link)
 
