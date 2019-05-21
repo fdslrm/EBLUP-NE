@@ -18,7 +18,7 @@ The research paper has been submitted for publishing in [Statistical Papers](htt
 
 A preprint version is available at <https://arxiv.org/abs/1905.07771>.
 
-## Software [![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) [![launch binder](misc/binder_badge.svg)](link)
+## Software
 
 The notebooks folders ([`Modeling`](Modeling), [`PYnotebooks`](PYnotebooks), [`Rnotebooks`](PYnotebooks)) contain Python based and R based Jupyter notebooks which are detailed records of our computing 
 with explaining narratives ilustrating explored concepts and methods. 
