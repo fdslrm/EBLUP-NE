@@ -23,8 +23,7 @@ A preprint version is available at <https://arxiv.org/abs/1905.07771>.
 The notebooks folders ([`Modeling`](Modeling), [`PYnotebooks`](PYnotebooks), [`Rnotebooks`](PYnotebooks)) contain Python based and R based Jupyter notebooks which are detailed records of our computing 
 with explaining narratives ilustrating explored concepts and methods. 
 
-Notebooks can be studied and viewed with a raw code on Github [`index.ipynb`](index.ipynb) or **rendered** in [Jupyter nbviewer](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) 
-[![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) with full visualisation.
+Notebooks can be studied and viewed statically in [Jupyter nbviewer](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) [![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) with full visualisation. If there is a need, they can be also viewed directly on Github [`index.ipynb`](index.ipynb) also with a raw code. 
 
 For interactive **executing** notebooks as live documents without any need to install or compile the software,
 USE the following links
