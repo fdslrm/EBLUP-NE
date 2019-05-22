@@ -23,10 +23,10 @@ A preprint version is available at <https://arxiv.org/abs/1905.07771>.
 The notebooks folders ([`Modeling`](Modeling), [`PYnotebooks`](PYnotebooks), [`Rnotebooks`](PYnotebooks)) contain Python based and R based Jupyter notebooks which are detailed records of our computing 
 with explaining narratives ilustrating explored concepts and methods. 
 
-Notebooks can be studied and viewed statically in [Jupyter nbviewer](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) [![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) with full visualisation. If there is a need, they can be also viewed directly on Github [`index.ipynb`](index.ipynb) also with a raw code. 
+Notebooks can be studied and **viewed** statically in [Jupyter nbviewer](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) [![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) with full visualisation. If there is a need, they can be also viewed directly on Github [`index.ipynb`](index.ipynb), also as a raw code. 
 
 For interactive **executing** notebooks as live documents without any need to install or compile the software,
-USE the following links
+**use** the following links
 * [`Python based notebooks using CVXPY and Scipy`](https://mybinder.org/v2/gh/fdslrm/Binder-CVXPY/master?filepath=index.ipynb) - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fdslrm/Binder-CVXPY/master?filepath=index.ipynb)
 * [`Python based notebooks using SageMath`](https://mybinder.org/v2/gh/fdslrm/Binder-Sage/master?filepath=index.ipynb) - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fdslrm/Binder-Sage/master?filepath=index.ipynb)
 * [`R based notebooks`](https://mybinder.org/v2/gh/fdslrm/Binder-R/master?filepath=index.ipynb) - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fdslrm/Binder-R/master?filepath=index.ipynb)
