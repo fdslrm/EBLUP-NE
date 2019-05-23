@@ -38,3 +38,8 @@ All source code is distributed under [the MIT license](https://choosealicense.co
 ## Related materials
 
 The [`misc`](misc) folder contains our previously published papers related to the fdslrm project.
+
+## Acknowledgements
+
+This work was supported by the Slovak Research and Development Agency under the contract No. APVV-17-0568, the Scientific Grant Agency 
+of the Slovak Republic (VEGA), VEGA grant No.1/0311/18 and the Internal Research Grant System of Faculty of Science, P.J. Šafárik  University in Košice (VVGS PF UPJŠ) &mdash; project VVGS-PF-2018-792.
