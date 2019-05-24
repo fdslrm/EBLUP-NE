@@ -31,7 +31,7 @@ For interactive **executing** notebooks as live documents without any need to in
 * [`Python based notebooks using SageMath`](https://mybinder.org/v2/gh/fdslrm/Binder-Sage/master?filepath=index.ipynb) - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fdslrm/Binder-Sage/master?filepath=index.ipynb)
 * [`R based notebooks`](https://mybinder.org/v2/gh/fdslrm/Binder-R/master?filepath=index.ipynb) - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fdslrm/Binder-R/master?filepath=index.ipynb)
 
-There is also another very comfort alternative, fully tested by us, called [CoCalc](https://cocalc.com/) providing interactive computing with our Jupyter notebooks.
+There is also another very comfort alternative, fully tested by us, [CoCalc](https://cocalc.com/) providing interactive computing with our Jupyter notebooks.
  
 All source code is distributed under [the MIT license](https://choosealicense.com/licenses/mit/).
 
