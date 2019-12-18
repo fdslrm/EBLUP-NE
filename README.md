@@ -6,17 +6,19 @@ by **Martina Hančová, Gabriela Vozáriková, Andrej Gajdoš, Jozef Hanč**
 
 ### Abstract of the paper
 
-We propose a two-stage estimation method of variance components in time series models known as FDSLRMs, whose observations can be described by a linear mixed model (LMM). We based estimating variances, fundamental quantities in a time series forecasting approach called kriging, on the empirical (plug-in) best linear unbiased predictions of unobservable random components in FDSLRM. 
+We revisit and update estimating variances, fundamental quantities in a time series forecasting approach called kriging, in time series models known as FDSLRMs, whose observations can be described by a linear mixed model (LMM). 
 
-The method, providing invariant non-negative quadratic estimators, can be used for any absolutely continuous probability distribution of time series data. As a result of applying the convex optimization and the LMM methodology, we resolved two problems &mdash; theoretical existence and equivalence between least squares estimators, non-negative (M)DOOLSE, and maximum likelihood estimators, (RE)MLE, as possible starting points of our method and a practical lack of computational implementation for FDSLRM. As for computing (RE)MLE in the case of *n* observed time series values, we also discovered a new algorithm of order *O*(*n*), which at the default precision is 10<sup>7</sup> times more accurate and *n*<sup>2</sup> times faster than the best current Python(or R)-based computational packages, namely CVXPY, CVXR, nlme, sommer and mixed. 
+As a result of applying the convex optimization, we resolved two open problems in FDSLRM research: (1) theoretical existence and equivalence between two standard estimation methods --- least squares estimators, non-negative (M)DOOLSE, and maximum likelihood estimators, (RE)MLE, (2) and a practical lack of free available computational implementation for FDSLRM. As for computing (RE)MLE in the case of $ n $ observed time series values, we also discovered a new algorithm of order *O*(*n*), which at the default precision is 10<sup>7</sup> times more accurate and *n*<sup>2</sup> times faster than the best current Python(or R)-based computational packages, namely CVXPY, CVXR, nlme, sommer and mixed. 
 
-We illustrate our results on three real data sets &mdash; electricity consumption, tourism and cyber security &mdash; which are easily available, reproducible, sharable and modifiable in the form of interactive Jupyter notebooks.
+The LMM framework led us to the proposal of a two-stage estimation method of variance components based on the empirical (plug-in) best linear unbiased predictions of unobservable random components in FDSLRM. The method, providing non-negative estimators with a simple explicit analytic form and performance comparable with REMLE in the Gaussian case, can be used for any absolutely continuous probability distribution of time series data. 
+
+We illustrate our results via applications and simulations on three real data sets (electricity consumption, tourism and cyber security), which are easily available, reproducible, sharable and modifiable in the form of interactive Jupyter notebooks.
 
 ## Research paper 
 
 The research paper has been submitted for publishing in [Statistical Papers](https://link.springer.com/journal/362).
 
-A preprint version is available at <https://arxiv.org/abs/1905.07771>.
+A preprint, the first version of the paper is available at <https://arxiv.org/abs/1905.07771>.
 
 ## Software [![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) 
 
