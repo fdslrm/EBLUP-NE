@@ -1,7 +1,7 @@
-## Estimating variances in time series linear regression models using empirical BLUPs and convex optimization
+## Estimating variances in time series kriging using convex optimization and empirical BLUPs
 *a research paper and supplementary materials - software, notebooks*
 
-by **Martina Hančová, Gabriela Vozáriková, Andrej Gajdoš, Jozef Hanč**  
+by **Martina Hančová, Andrej Gajdoš, Jozef Hanč, Gabriela Vozáriková**  
 <martina.hancova@upjs.sk>
 
 ### Abstract of the paper
