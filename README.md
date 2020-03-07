@@ -16,7 +16,7 @@ We illustrate our results via applications and simulations on three real data se
 
 ## Research paper 
 
-The research paper has been submitted for publishing in [Statistical Papers](https://link.springer.com/journal/362).
+This is a pre-print of an article published in [Statistical Papers](https://link.springer.com/journal/362). The final revised authenticated version is available online at: <https://link.springer.com/article/10.1007%2Fs00362-020-01165-5>
 
 A preprint, the first version of the paper is available at <https://arxiv.org/abs/1905.07771>.
 
